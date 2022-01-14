@@ -36,13 +36,10 @@
 
 <a href="https://niche-products-28da0.web.app/" target="_blank"><img src="https://i.pinimg.com/originals/24/ae/8d/24ae8def288851503cf68340df174963.gif" 
 alt="Biycle Sales" width="256" height="180" border="10"/></a>
-
 <a href="https://niche-products-28da0.web.app/" target="_blank"><img src="https://i.pinimg.com/originals/24/ae/8d/24ae8def288851503cf68340df174963.gif" 
 alt="Biycle Sales" width="256" height="180" border="10"/></a>
-
 <a href="https://niche-products-28da0.web.app/" target="_blank"><img src="https://i.pinimg.com/originals/24/ae/8d/24ae8def288851503cf68340df174963.gif" 
 alt="Biycle Sales" width="256" height="180" border="10" /></a>
-
 <a href="https://niche-products-28da0.web.app/" target="_blank"><img src="https://i.pinimg.com/originals/24/ae/8d/24ae8def288851503cf68340df174963.gif" 
 alt="Biycle Sales" width="256" height="180" border="10"/></a>
 
