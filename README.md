@@ -24,7 +24,7 @@
 <a href="https://www.hackerrank.com/tipu sultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tipu sultan" height="30" width="40" /></a>
 </p>
 
-## Skills & Eexperience
+<h3 align="left">Skill & Experience</h3>
 ⚛ React
 📱 React Native
 💻 HTML, CSS, JS
