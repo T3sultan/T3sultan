@@ -35,20 +35,8 @@
 
 <img width="256" src="https://i.pinimg.com/originals/24/ae/8d/24ae8def288851503cf68340df174963.gif">
 
-<div className="col__3">
-                 <div className="project__box pointer relative">
-                     <div className="project__box__img pointer relative">
-                         <div className="project__img__box">
-                             <img style={{width:'375px',height:'500px'}} src={"https://i.pinimg.com/originals/24/ae/8d/24ae8def288851503cf68340df174963.gif"} alt="" className="project__img" />
-                         </div>
-                         <div className="mask__effect"></div>
-                     </div>
-                     <div className="project__meta absolute">
-                     <h5 className="project__text">Bicycle Sales</h5>
-                     <h4 className="project__text">Nov 2021 - Nov 2021</h4>
-                     <a href="https://niche-products-28da0.web.app/" className="project__btn">View Details</a>
-                     </div>
-                 </div>
-             </div>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
