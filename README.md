@@ -31,6 +31,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T3sultan&show_icons=true&theme=radical)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=T3sultan)  
+
+
 <h3 align="left">Project Works</h3>
 
 
