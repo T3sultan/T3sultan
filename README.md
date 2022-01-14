@@ -39,7 +39,7 @@
                  <div className="project__box pointer relative">
                      <div className="project__box__img pointer relative">
                          <div className="project__img__box">
-                             <img style={{width:'375px',height:'500px'}} src={Project1} alt="" className="project__img" />
+                             <img style={{width:'375px',height:'500px'}} src={"https://i.pinimg.com/originals/24/ae/8d/24ae8def288851503cf68340df174963.gif"} alt="" className="project__img" />
                          </div>
                          <div className="mask__effect"></div>
                      </div>
