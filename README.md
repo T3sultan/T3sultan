@@ -37,7 +37,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T3sultan&show_icons=true&theme=radical)
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=T3sultan) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=T3sultan&show_icons=true&theme=radical) 
 
 ![GitHub metrics](https://metrics.lecoq.io/T3sultan) 
 
