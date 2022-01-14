@@ -39,7 +39,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=T3sultan) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=T3sultan)  
+![GitHub metrics](https://metrics.lecoq.io/T3sultan) 
 
 
 <h3 align="left">Project Works</h3>
