@@ -40,6 +40,8 @@ alt="Biycle Sales" width="240" height="180" border="10"/></a>
 alt="Hotel Room Booking" width="240" height="180" border="10"/></a>
 <a href="https://specialized-hospital-1a3ce.web.app/" target="_blank"><img src="https://i.pinimg.com/originals/5e/4d/2b/5e4d2bb71b44ea32261af277f990642e.gif" 
 alt="Specialized Hospital" width="240" height="180" border="10" /></a>
+<a href="https://e-commerce-webiste-assignment-7.netlify.app/" target="_blank"><img src="https://discovertemplate.com/wp-content/uploads/2020/11/E-Commerce-Animated-GIF-Icon-Pack-2.gif" 
+alt="E-commerce Base" width="240" height="180" border="10"/></a>
 <a href="https://doctors-portals-ea55d.web.app/" target="_blank"><img src="https://i.pinimg.com/originals/13/66/c9/1366c95f8c249b8422d2caaae287cb63.gif" 
 alt="Doctors Portal" width="240" height="180" border="10"/></a>
 
